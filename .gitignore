@@ -13,7 +13,8 @@ stats.json
 /coverage
 
 # production
-/build
+/dist
+.idea
 
 # misc
 .DS_Store
